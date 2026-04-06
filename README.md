@@ -8,7 +8,7 @@ The lab includes Azure Application Gateway, Web Application Firewall (WAF), Azur
 ---
 
 ## Architecture
-architecture/appgw-waf-architecture.png
+![Architecture Diagram](architecture/appgw-waf-architecture.png)
 
 ---
 
